@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAC_Portfolio", "TAC_Portfolio\TAC_Portfolio.csproj", "{FE764E2E-3E4F-4D37-812A-FE157FEE31BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE764E2E-3E4F-4D37-812A-FE157FEE31BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE764E2E-3E4F-4D37-812A-FE157FEE31BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE764E2E-3E4F-4D37-812A-FE157FEE31BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE764E2E-3E4F-4D37-812A-FE157FEE31BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A65107-7794-4279-A25F-99F8D513A083}
+	EndGlobalSection
+EndGlobal
